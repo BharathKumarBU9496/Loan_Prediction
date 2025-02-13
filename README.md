@@ -1,4 +1,4 @@
-# Loan_Prediction:green_heart
+# Loan_Prediction
 Python code using a sample dataset to predict loan approval.
 
 **Step 1: Dataset Creation**
