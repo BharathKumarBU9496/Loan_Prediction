@@ -1,4 +1,4 @@
-# Loan_Prediction
+# Loan_Prediction:green_heart
 Python code using a sample dataset to predict loan approval.
 
 **Step 1: Dataset Creation**
@@ -29,4 +29,3 @@ Using logistic regression to predict loan approval.
 **Count Plots:** These are useful for visualizing the distribution of categorical variables. By comparing these distributions across different categories of the loan status, one can infer how significant a feature might be in predicting loan approval.
 
 These visualizations provide insightful previews into the dataset and are effective in communicating the results in a visually appealing way
-![Custom Badge](https://img.shields.io/badge/style-plastic-green?logo=appveyor)
