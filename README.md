@@ -17,3 +17,15 @@ Step 4: Model Building
 Using logistic regression to predict loan approval.
 ![image](https://github.com/user-attachments/assets/38329ff2-52c1-4775-9e55-d7007a371087)
 
+OUTPUT:visualizations
+![Figure1](https://github.com/user-attachments/assets/50bc2f74-1236-435b-8f6c-da648dbf05a9)
+
+
+Explanation
+Pairplot: This plot helps us see the distribution of single variables and relationships between two variables, differentiated by loan status. The use of hue based on 'Loan_Status' allows us to visually segregate data points based on whether the loan was approved or not.
+
+Heatmap: Shows the correlation between different variables in the dataset. A higher correlation coefficient indicates a strong relationship, which can be crucial in predictive modeling to avoid multicollinearity.
+
+Count Plots: These are useful for visualizing the distribution of categorical variables. By comparing these distributions across different categories of the loan status, one can infer how significant a feature might be in predicting loan approval.
+
+These visualizations provide insightful previews into the dataset and are effective in communicating the results in a visually appealing way
