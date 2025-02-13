@@ -7,6 +7,7 @@ Let's create a sample dataset. This dataset will include common features that in
 
 **Step 2: Data Preprocessing**
 Before we can train our model, we need to preprocess our data, such as handling categorical variables.
+
 ![image](https://github.com/user-attachments/assets/23164da7-17b3-4b93-8b3e-9bda51c8bfc1)
 
 **Step 3: Data Visualization**
