@@ -17,9 +17,12 @@ Create some visualizations to explore the data.
 **Step 4: Model Building**
 Using logistic regression to predict loan approval.
 ![image](https://github.com/user-attachments/assets/38329ff2-52c1-4775-9e55-d7007a371087)
+![tttt](https://github.com/user-attachments/assets/dea5ee8c-3f9e-40b4-a4c9-9d1a28d8f53c)
+
 
 **OUTPUT:Visualizations**
 ![Figure1](https://github.com/user-attachments/assets/50bc2f74-1236-435b-8f6c-da648dbf05a9)
+![corelation heat map](https://github.com/user-attachments/assets/5661044d-8181-4504-8bfe-4a9b80ac1e43)
 
 
 **Explanation**
